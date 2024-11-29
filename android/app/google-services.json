@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "966559909193",
+    "firebase_url": "https://elearner-131f1-default-rtdb.firebaseio.com",
+    "project_id": "elearner-131f1",
+    "storage_bucket": "elearner-131f1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:966559909193:android:34c0d47fe7b6792cfdc698",
+        "android_client_info": {
+          "package_name": "com.rayka.elearner"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzfAlVQucLKCVnW0yQQQBzFdyY8EF3f04"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
